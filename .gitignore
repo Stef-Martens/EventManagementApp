@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# ASP.NET Core
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+
+# Build directories for .NET Core
+bin/
+obj/
+artifacts/
+
+# User-specific files
+.vsconfig
+
+# Environment-specific config files
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/dotCover/
+
+# NPM/Yarn logs
+npm-debug.log
+yarn-error.log
+
+# Visual Studio for Mac
+.vscode/
+
+# dotCover
+.idea/dotCover/
+
+# ReSharper
+_ReSharper/
