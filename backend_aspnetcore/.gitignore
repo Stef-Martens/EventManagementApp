@@ -1,0 +1,50 @@
+# .NET Core
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Core temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# NPM/Yarn
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Visual Studio for Mac
+.vscode/
+
+# dotCover
+.idea/dotCover/
+
+# Resharper
+_ReSharper/
+
+# User-specific configurations
+.vsconfig
